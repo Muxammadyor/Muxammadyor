@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elchinuralov&show_icons=true&locale=en&layout=compact" alt="mukhammadyorkenjayev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elchinuralov&show_icons=true&locale=en" alt="elchinuralov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muxammadyor&show_icons=true&locale=en" alt="elchinuralov" /></p>
